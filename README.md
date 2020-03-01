@@ -1,8 +1,8 @@
 Практическая работа №1
 =========
-Задание 1: факториал n-го числа
----------
 Реализовать код программы
+---------
+Задание 1: факториал n-го числа
 ---------
 ![alt text](https://downloader.disk.yandex.ru/preview/6fa12f8b76383e8408a035cfe6672aac977c89654290d61182b813ef72ebbdae/5e5c07cc/_cQ_sa0IrjnhNJw79_hPrqLJCemTSfrlUH6ERuo01Dd9ztrYq5FgvhmnrzGaVCjxXKTkwhg6Hhdgg7zf3Zug1g==?uid=0&filename=2020-03-01_17-34-24.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=933485117&size=1920x898)
 ![alt text](https://downloader.disk.yandex.ru/preview/dcae511fc0e062ba53c61a4d43da1992236bc646b790116b08c0e964bf70d1f6/5e5c07f3/LIUCHgubjBDDZxYBx8vbUKNweNeaBj9nnmjWcEPUj2ei7lCl44lKJetKmOIN8jbzGT7IDiH40WhAxKZC-RR6ug==?uid=0&filename=2020-03-01_17-34-50.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=933485117&size=1920x898)
@@ -21,4 +21,5 @@
 ---------
 ![alt text](https://downloader.disk.yandex.ru/preview/8fa3a34f0d52a03f3b81595e7207a3fe10fc4986b8e9ee24530a67995843e3e1/5e5c0976/VfP586y4IdCg7KJwJXzjNE1LAXfX-DeaFqKsn6zZU-NDSDhEol36-5i_kNqRr8cFshmzZXdfy1XYuE5I-LsE5w==?uid=0&filename=2020-03-01_17-38-36.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=933485117&size=1920x898)
 ![alt text](https://downloader.disk.yandex.ru/preview/fcacc963dfadf8f8981dca528b4b5f1588139a12c5a7b88754882ac68b49bc83/5e5c0989/PwOpXIQCb4vqJeFP4eTRESrCpo29s789sSVuM3pB4WlsvOUcVHLWhsAHwQp6T15M7eS4SdFYLqsLFsfO1e37hg==?uid=0&filename=2020-03-01_17-38-47.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=933485117&size=1920x898)
-
+---------
+В итоге проведенной лабораторной работы было создано 4 программы по заданному условию, которые работают по заданному условию
